@@ -154,6 +154,20 @@ export const quizData = {
             description: `Joffrey Baratheon monte sur le trône à la mort de son père "officiel", Robert Baratheon. Mais, doutant de sa filiation, les deux frères de Robert, Stannis et Renly, se battent pour le Trône de fer. C'est le début de la Guerre des Cinq Rois. De leur côté, Balon Greyjoy et Robb Stark veulent, eux, se détacher du royaume des Sept Couronnes et être reconnus respectivement comme roi des Iles de fer et comme roi du Nord.`,
             image: 'https://cache.marieclaire.fr/data/photo/w700_c17/4a/sale-gosse.jpg'
         },
+
+        {
+            id: 3,
+            quiz: `Complétez la phrase de Syrio Forel : "Il n’y a qu’un seul dieu, et ce dieu est la mort. Et on ne dit qu’une seule chose à la mort…"`,
+            options: [
+                `Tu ne m’auras pas`,
+                `Va te faire voir à Astapor`,
+                `Pas aujourd’hui`,
+                `Reviens demain`,
+            ],
+            answer: `Pas aujourd’hui`,
+            description: `Epéiste de Braavos, Syrio Forel est le "maître à danser" d'Arya, son maître d'armes choisi par Eddark Stark. Il lui apprend à répondre ainsi à la mort, le seul dieu qu'elle doit craindre, selon lui.`,
+            image: 'https://media.gqmagazine.fr/photos/5b9917fbe1cf6200114c2082/16:9/w_2560%2Cc_limit/game_of_thrones___syrio_forel_est_il_mort___343.png'
+        },
         
     ]
 }
