@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-black;
+  color: white;
+  padding: 25px 15%;
+}
+
+h1{
+    @apply text-4xl;
+}
+
+.router-link-exact-active {
+    @apply text-red-400;
+}
+
+@layer components {
+  
+}
